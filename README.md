@@ -233,7 +233,7 @@ Follow the steps at [Using stable version from PyPI](https://github.com/Knowledg
 
 ## Contribution
 
-Contributions to the framework as well as the widgets are welcomed!
+Contributions to the framework or widgets are welcomed!
 
 #### For external contributors
 
@@ -248,7 +248,6 @@ Contributions to the framework as well as the widgets are welcomed!
 
 KnowledgSeed team members are considered internal contributors. In addition, the most active external contributors are promoted as internal contributors.
 Internal contributors can create feature branches in the main repository.
-
 
 ## Links
 
